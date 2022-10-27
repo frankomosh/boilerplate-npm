@@ -1,7 +1,6 @@
 {
-	
-	"author": "Frankline Omondi",
 	"name": "fcc-learn-npm-package-json",
+	"author": "Frankline Omondi",
 	
 	"dependencies": {
 		"express": "^4.14.0"
